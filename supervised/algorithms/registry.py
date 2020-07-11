@@ -68,4 +68,3 @@ import supervised.algorithms.extra_trees
 import supervised.algorithms.catboost
 import supervised.algorithms.linear
 import supervised.algorithms.nn
-import supervised.algorithms.knn
